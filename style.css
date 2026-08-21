@@ -1,9 +1,16 @@
 body{
 background-color: rgb(107, 255, 114);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 header{
     background-color: rgb(113, 166, 235);
+    margin: 0 auto;
+    padding: 16px;
 }
 section{
     background-color: whitesmoke;
+    margin: 16px;
+    padding: 16px;
+    max-width: 500px;
+    border-radius: 10px;
 }
